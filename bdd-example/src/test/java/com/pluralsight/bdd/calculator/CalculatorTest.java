@@ -1,4 +1,4 @@
-package com.pluralsight.bdd;
+package com.pluralsight.bdd.calculator;
 
 import io.cucumber.junit.Cucumber;
 import org.junit.runner.RunWith;

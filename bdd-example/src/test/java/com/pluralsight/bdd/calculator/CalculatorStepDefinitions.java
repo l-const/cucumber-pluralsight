@@ -1,5 +1,6 @@
-package com.pluralsight.bdd;
+package com.pluralsight.bdd.calculator;
 
+import com.pluralsight.bdd.Calculator;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -7,7 +8,6 @@ import io.cucumber.java.en.When;
 import java.util.Random;
 
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertTrue;
 
 public class CalculatorStepDefinitions {
 
