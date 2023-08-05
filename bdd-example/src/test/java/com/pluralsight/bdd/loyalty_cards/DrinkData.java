@@ -20,4 +20,16 @@ public class DrinkData {
                 ", points=" + points +
                 '}';
     }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getCategory() {
+        return category;
+    }
+
+    public int getPoints() {
+        return points;
+    }
 }
